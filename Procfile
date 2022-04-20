@@ -1,1 +1,1 @@
-web: gunicorn todoist.wsgi --log-file
+web: gunicorn todoist.wsgi --log-file -
